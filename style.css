@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css?family=Rokkitt:300,400,500');
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	font-family: Rokkitt;
+	font-size: 16px;
+}
+
+.full_bg{
+	background-color: #364F88;
+	opacity: .9;
+	height: 80px;
+	box-sizing: border-box;
+	width: 100%;
+	overflow: hidden;
+	z-index: 1;
+	position: sticky;
+	top: 0;
+}
+
+.wrapper{
+	width: 80%;
+	margin: auto;
+	max-width: 1200px;
+}
+
+/*end common section*/
+
+header{
+	overflow: hidden;
+}
+
+.logo{
+	float: left;
+	background-image: url(img/logosv.svg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	width: 145px;
+	height: 54px;
+	margin: 13px 0;
+}
+
+nav{
+	float: right;
+	margin: 28px 0;
+}
+
+nav ul li{
+	list-style: none;
+	float: left;
+}
+
+nav ul li a{
+	text-decoration: none;
+	font-size: 130%;
+	margin-left: 40px;
+	color: #ffffff;
+	display: inline-block;
+} 
+
+nav ul li a:hover{
+	text-decoration: underline;
+	color: #FFBB9E;
+} 
+
+/*end of nav*/
+
+section:after{
+	content: "";
+	display: block;
+	clear: both;
+}
+
+section{
+	margin: 5% 0 8% 0;
+}
+
+section h1{
+	margin: 2% 0 2%;
+	font-size: 400%;
+	font-weight: 400;
+	box-sizing: border-box;
+    border-bottom: 10px solid #85BCF5;
+    padding-bottom: 0;
+    line-height: 70%;
+    text-align: right;
+    display: inline-block;
+    /*
+    --color: #85BCF5;
+    background-image: linear-gradient(var(--color) 0%, var(--color) 100%);
+    background-repeat: repeat-x;
+    background-position: 0 .9em;
+    background-size: 2px 14px;
+    text-align: right;*/
+
+
+}
+
+
+
+section div.container img{
+	width: 33.33333%;
+	float: left;
+	box-sizing: border-box;
+	border: 2px solid transparent;
+	transition: opacity .5s;
+}
+
+section div.container img:hover{
+	opacity: .7;
+}
+
+/*end of gallery section*/
+
+footer{
+	background-color: #364F88;
+	color: #ffffff;
+	text-align: center;
+	padding: 10px 10px 30px;
+	box-sizing: border-box;
+	overflow: hidden;
+}
+
+.logo_footer{
+	float: none;
+	margin: 10px auto 10px;
+	width: 110px;
+	height: 41px;
+}
+/*end of the world :)*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
