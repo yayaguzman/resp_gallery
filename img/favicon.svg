@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="43px" viewBox="0 0 60 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>camera</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Lets-go-Copy" transform="translate(-105.000000, -26.000000)">
+            <g id="nav">
+                <g id="logo-copy" transform="translate(105.000000, 9.000000)">
+                    <g id="camera" transform="translate(0.000000, 17.000000)">
+                        <rect id="Rectangle-Copy" fill="#FFEBAE" x="6" y="0" width="23" height="23" rx="3"></rect>
+                        <rect id="Rectangle" fill="#85BCF5" x="0" y="6" width="60" height="37" rx="6"></rect>
+                        <circle id="Oval" fill="#FFBB9E" cx="42.5" cy="25.5" r="11.5"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
